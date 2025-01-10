@@ -1,0 +1,1 @@
+This repository contains a simple C program that illustrates a common coding error related to pointer arithmetic. The bug.c file shows the erroneous code, while bugSolution.c provides a corrected version with explanations.  This example highlights the importance of understanding how pointers interact with memory to avoid unexpected behavior and potential crashes.
